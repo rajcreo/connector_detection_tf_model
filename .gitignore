@@ -1,0 +1,15 @@
+# virtual environment
+/cdenv
+
+# tensorflow object detection api
+/Tensorflow/models
+
+# images for training and testing
+/Tensorflow/workspace/images
+
+# tensorflow pre-trained ssd_mobilenet model
+/Tensorflow/workspace/pre-trained-models
+
+# ipynb_checkpoints
+.ipynb_checkpoints
+
